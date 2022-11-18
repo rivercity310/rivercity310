@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<div align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent)</div> 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=transparent)</div>
+<div align="center"> ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent) </div> 
+<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=transparent) </div>
 
 <!--
 **rivercity310/rivercity310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
