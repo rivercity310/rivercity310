@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align='center'>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=transparent)
 </div>
 
