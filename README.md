@@ -5,7 +5,7 @@
 
 </div>
 
-<p align='center' style="font-size: 18px;">
+<p align='center' style="font-size: 24px;">
 Deeply in love with web technology and computer algorithms.<br/>
 Not good enough yet, but I'll continue to work hard. <br/>
 Thank you.
