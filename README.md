@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=tokyonight)
-
-<hr/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=dark)
 
 <!--
 **rivercity310/rivercity310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
