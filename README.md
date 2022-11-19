@@ -11,12 +11,18 @@
 <br/>
 
 <p align='center' style="font-size: 18px; font-weight: bold">
-I'm interested in web technology and computer algorithms.<br/>
-Not good enough, but studying hard. <br/>
-Thank you.
+I'm .... <br/>
+- Interested in web technology and computer algorithms.<br/>
+- Enjoying solving algorithmic problems in different languages. (C++, Java, Python ...)<br/>
+- Learning Java Spring Framework <br/>
+- Dreaming of becoming a back-end developer <br/>
+- Not good enough, but studying hard. <br/>
+<br/>Thank you.
 </p>
 
 <br/>
+<br/>
+
 
 <div align="center">
 
