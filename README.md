@@ -10,7 +10,7 @@
 
 <center>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -18,9 +18,6 @@
 </div>
 </center>
 
-<br/>
-<br/>
-<br/>
 
 
 <div align="center">
