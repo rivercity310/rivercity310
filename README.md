@@ -1,6 +1,6 @@
 <h1 align="center">
 
-`alert('Calm down')`
+`alert('Enjoy')`
 </h1>
 <br/>
 
@@ -10,15 +10,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivercity310&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/rivercity310)
 </div>
 
-<div style="width: 300px; object-fit: cover; margin-left: 35%">
+
+<center>
 
 ![giphy](https://user-images.githubusercontent.com/95991654/202862364-b16db851-92ae-4884-87b0-fc418b0405a0.gif)
-</div>
+</center>
 
 <br/>
 
-<div style="display: flex; text-align: center">
-    <picture style="flex: 1; margin-left: 100px;">
+<center style="display: block">
+    
+<picture style="display: inline-block">
         <source 
           srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=dark"
           media="(prefers-color-scheme: dark)"
@@ -29,9 +31,9 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true" /> 
     </picture>
-    
-<div style="flex: 0.99">
+
+<div style="display: inline-flex; height: 100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-</div>
+</center>
