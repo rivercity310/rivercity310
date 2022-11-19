@@ -5,7 +5,7 @@
 
 </div>
 
-<p align='center' style="font-size: 24px; font-weight: bold">
+<p align='center' style="font-size: 18px; font-weight: bold">
 Deeply in love with web technology and computer algorithms.<br/>
 Not good enough yet, but I'll continue to work hard. <br/>
 Thank you.
@@ -15,8 +15,13 @@ Thank you.
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=transparent)
+
+</div>
+
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=transparent)
 
 </div>
 
