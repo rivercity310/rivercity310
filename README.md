@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Visitors 👋</h1>
+<h1 align="center">Hi 👋</h1>
 <div align='right'>
 
 <br/>
@@ -8,18 +8,15 @@
 
 </div>
 
+<center>
+
+<br/><br/>
+
+![giphy](https://user-images.githubusercontent.com/95991654/202862364-b16db851-92ae-4884-87b0-fc418b0405a0.gif)
+
+</center>
+
 <br/>
-
-<p align='center' style="font-size: 18px; font-weight: bold">
-I'm .... <br/>
-- Interested in web technology and computer algorithms.<br/>
-- Enjoying solving algorithmic problems in different languages. (C++, Java, Python ...)<br/>
-- Learning Java Spring Framework <br/>
-- Dreaming of becoming a back-end developer <br/>
-- Not good enough, but studying hard. <br/>
-<br/>Thank you.
-</p>
-
 <br/>
 <br/>
 
