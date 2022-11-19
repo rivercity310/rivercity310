@@ -19,20 +19,20 @@
 <br/>
 
 <div align='center' style="display: block">
-    
-    <picture style="display: inline-block">
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true" /> 
-    </picture>
 
-    <div style="display: inline-flex; height: 100%">
+<picture style="display: inline-block">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true" /> 
+</picture>
+
+<div style="display: inline-flex; height: 100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
