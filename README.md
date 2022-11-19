@@ -12,8 +12,10 @@
 
 <br/><br/>
 
-![giphy](https://user-images.githubusercontent.com/95991654/202862364-b16db851-92ae-4884-87b0-fc418b0405a0.gif)
+<div align="center">
 
+![giphy](https://user-images.githubusercontent.com/95991654/202862364-b16db851-92ae-4884-87b0-fc418b0405a0.gif)
+</div>
 </center>
 
 <br/>
