@@ -1,13 +1,18 @@
-<h1 align="center">Hello, I'm Seungsu 👋</h1>
+<h1 align="center">Hello, Visitors 👋</h1>
 <div align='right'>
 
+<br/>
+
+[![https://solved.ac/profile/h970126](http://mazassumnida.wtf/api/mini/generate_badge?boj=h970126)](https://solved.ac/h970126)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivercity310&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/rivercity310)
 
 </div>
 
+<br/>
+
 <p align='center' style="font-size: 18px; font-weight: bold">
-Deeply in love with web technology and computer algorithms.<br/>
-Not good enough yet, but I'll continue to work hard. <br/>
+I'm interested in web technology and computer algorithms.<br/>
+Not good enough, but studying hard. <br/>
 Thank you.
 </p>
 
@@ -16,7 +21,6 @@ Thank you.
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact&theme=transparent)
-
 </div>
 
 <div align="center">
