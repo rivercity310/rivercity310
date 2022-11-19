@@ -11,16 +11,16 @@
 </div>
 
 
-<center>
+<div align='center'>
 
 ![giphy](https://user-images.githubusercontent.com/95991654/202862364-b16db851-92ae-4884-87b0-fc418b0405a0.gif)
-</center>
+</div>
 
 <br/>
 
-<center style="display: block">
+<div align='center' style="display: block">
     
-<picture style="display: inline-block">
+    <picture style="display: inline-block">
         <source 
           srcset="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true&theme=dark"
           media="(prefers-color-scheme: dark)"
@@ -32,8 +32,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=rivercity310&show_icons=true" /> 
     </picture>
 
-<div style="display: inline-flex; height: 100%">
+    <div style="display: inline-flex; height: 100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivercity310&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
 </div>
-</center>
