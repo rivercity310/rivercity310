@@ -1,1 +1,2 @@
-#### [Portfolio](https://artfolio-bucket.s3.ap-northeast-2.amazonaws.com/static/76cb5ea5-fa5d-44b3-9c06-20bf2a650f91_%EC%84%9C%EB%B2%84%EB%B0%B1%EC%97%94%EB%93%9C_%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%99%A9%EC%8A%B9%EC%88%98%EC%9E%85%EB%8B%88%EB%8B%A4..pdf)
+:smiley: <br/>
+[About Me](https://artfolio-bucket.s3.ap-northeast-2.amazonaws.com/static/884c14c6-411d-43b7-b1bb-b8585b9eb97e_%EC%84%9C%EB%B2%84%EB%B0%B1%EC%97%94%EB%93%9C_%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%99%A9%EC%8A%B9%EC%88%98%EC%9E%85%EB%8B%88%EB%8B%A4..pdf)
